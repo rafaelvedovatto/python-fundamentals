@@ -1,0 +1,5 @@
+# comentário
+
+print('Hey fucker!')
+
+
